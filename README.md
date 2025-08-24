@@ -15,3 +15,4 @@ para clonar é só copiar seu repositório no git hub e voltar no cmd, digitar *
 
 para renomear só é preciso copiar a linha que você digitou do *git clone + URL* e adicionar apenas o novo nome da sua pasta.
 
+|onde aprendi|{https://web.dio.me/track/avanade-back-end-com-net-e-ia/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1}
