@@ -7,11 +7,11 @@
 exemplo: cd meurepositorio
 5º passo - Digite *cd .git* para ativar o git no seu repositório
 
-# Clonar pasta git
+## Clonar pasta git
 
 para clonar é só copiar seu repositório no git hub e voltar no cmd, digitar *git clone URL* e ele irá clonar
 
-# ⌨️ Renomear pasta git 
+## ⌨️ Renomear pasta git 
 
 para renomear só é preciso copiar a linha que você digitou do *git clone + URL* e adicionar apenas o novo nome da sua pasta.
 
